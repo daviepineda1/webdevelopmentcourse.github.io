@@ -25,11 +25,11 @@ header {
   align-items: center;
   display: grid;
   grid-template-columns: 110px auto;
-  background-color: #646E78;
+  background-color: #fffcfd;
 }
 
 body{
-  background-color:#C6D2D1;
+  background-color:#000001;
 }
 nav{
   color: #050505;
@@ -44,7 +44,7 @@ nav ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
   margin: 0;
-  background-color: #C6D2D1;
+  background-color:#fffcfd;
   
 }
 
