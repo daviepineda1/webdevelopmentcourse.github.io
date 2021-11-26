@@ -43,7 +43,7 @@ nav ul {
   list-style: none;
   display: grid;
   margin: 0;
-  background-color: #C6D2D1;
+  background-color: #fffcfd;
   grid-template-rows: 1fr;
   grid-template-columns: 150px 150px 150px;
   
