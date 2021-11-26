@@ -40,11 +40,12 @@ nav a {
 }
 
 nav ul {
-  list-style: none; /* removes the bullets! */
+  list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
   margin: 0;
-  background-color:#fffcfd;
+  background-color: #C6D2D1;
+  grid-template-rows: 1fr;
+  grid-template-columns: 150px 150px 150px;
   
 }
 
