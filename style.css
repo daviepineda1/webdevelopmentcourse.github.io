@@ -54,3 +54,12 @@ nav ul {
   text-align: center;
 }
 
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  grid-gap: 1em;
+  background-color:  #999999;
+  
+}
+
