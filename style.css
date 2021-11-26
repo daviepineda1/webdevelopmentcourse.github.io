@@ -25,14 +25,14 @@ header {
   align-items: center;
   display: grid;
   grid-template-columns: 110px auto;
-  background-color: #ffd97a;
+  background-color: #646E78;
 }
 
 body{
   background-color:#C6D2D1;
 }
 nav{
-  color: #646E78;
+  color: #050505;
   padding: 80px 50px 0px 75px;
 }
 nav a {
