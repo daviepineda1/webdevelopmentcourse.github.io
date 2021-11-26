@@ -54,7 +54,7 @@ nav ul {
   text-align: center;
 }
 
-.home-grid {
+.virtual-backgrounds {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: repeat(6, 1fr);
