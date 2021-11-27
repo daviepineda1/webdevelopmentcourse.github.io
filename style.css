@@ -54,14 +54,11 @@ nav ul {
   text-align: center;
 }
 
-.virtual-backgrounds {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: repeat(6, 1fr);
-  grid-gap: 1em;
-  background-color:  #FFFFFF;
-  
-}
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: repeat(4, 1fr);
+grid-gap: 1em;
+background-color: #ffffff;
 
 .virtual-box-1{
   
