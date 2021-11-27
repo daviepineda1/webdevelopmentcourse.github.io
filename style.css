@@ -63,16 +63,23 @@ nav ul {
 }
 
 .virtual-box-1{
-  
+  grid-column: 1;
+  grid-row: 1;
 }
 
 .virtual-box-2 {
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .virtual-box-3 {
+  grid-column: 1;
+  grid-row: 3;
 }
 
 .virtual-box-4 {
+  grid-column: 2;
+  grid-row: 4;
 }
 
 
