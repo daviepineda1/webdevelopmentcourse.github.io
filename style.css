@@ -82,7 +82,10 @@ nav ul {
   grid-row: 4;
 }
 
-
+.button-div{
+  text-align: center;
+  background-color: #999999;
+}
 
 
 
