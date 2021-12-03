@@ -1,6 +1,6 @@
 /* Fonts from Google Fonts - more at https://fonts.google.com */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700');
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700');
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -10,8 +10,8 @@ body {
   color: #000;
 }
 
-h1 {
-  font-family: "Merriweather", serif;
+header {
+  font-family: "Arimo", serif;
   font-size: 32px;
 }
 p {
