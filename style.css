@@ -13,7 +13,7 @@ body {
 header {
   font-family: "Arimo", serif;
   font-size: 32px;
-  background-color: #fff;
+  background-color: #c32424;
 }
 p {
   text-align:center;
@@ -69,7 +69,7 @@ body{
 }
 
 .virtual-box{
-  
+   background-color: #c32424;
 }
 
 .button-div{
