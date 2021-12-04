@@ -57,10 +57,10 @@ body{
 
 .home-grid { 
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr;
-  grid-gap: 1em;
-  background-color:  #C6D2D1;
+  background-color: #C6D2D1;
+  grid-gap: 4em;
 
 }
 .home-headline{
