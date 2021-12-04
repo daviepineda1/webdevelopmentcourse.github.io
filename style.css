@@ -28,9 +28,6 @@ h1 {
 }
 
 header {
-  align-items: center;
-  display: grid;
-  grid-template-columns: 110px auto;
   background-color: #fffcfd;
 }
 
