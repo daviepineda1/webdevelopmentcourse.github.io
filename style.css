@@ -51,6 +51,10 @@ body{
   color: black;
 }
 
+.search-box {
+  text-align: center;
+}
+
 .home-grid { 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -59,43 +63,35 @@ body{
   background-color:  #C6D2D1;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-.search-box {
-  text-align: center;
-}
-
-.virtual-backgrounds {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: repeat(4, 1fr);
-  grid-gap: 1em;
-  background-color: #ffffff;
+.home-headline{
+  text-align:center;
+  
 }
 
 .virtual-box{
-  grid-column: 1;
-  grid-row: 1;
-  background-color: rgb(163, 254, 255);
+  
 }
-
 
 .button-div{
   text-align: center;
   background-color: #44ff2e;
 }
 
-.home-headline{
-  text-align:center;
-  
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
