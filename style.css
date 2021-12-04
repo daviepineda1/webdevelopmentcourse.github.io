@@ -18,8 +18,11 @@ header {
 p {
   text-align:center;
 }
+
 h1 {
   text-align:center;
+}
+img{
 }
 
 
@@ -70,11 +73,11 @@ body{
 
 .virtual-box{
    background-color: #c32424;
+   border-radius: 5px 5px 5px 5px;
 }
 
 .button-div{
   text-align: center;
-  background-color: #646E78;
 }
 
 
