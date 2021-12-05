@@ -96,11 +96,14 @@ body{
   text-align: center;
 }
 
-
-
-
-
-
 .button-div{
   text-align: center;
+}
+
+.top-virtual-backgrounds{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  background-color: #C6D2D1;
+  grid-gap: 4em;
 }
