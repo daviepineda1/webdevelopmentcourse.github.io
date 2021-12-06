@@ -109,9 +109,15 @@ body{
 }
 
 .virtual-box{
-   background-color: #c32424;
-   border-radius: 15px 15px 15px 15px;
-   width: 400px;
+  background-color: #c32424;
+  border-radius: 15px 15px 15px 15px;
+  width: 400px;
+  /* width: 320px; */
+  box-shadow: 1px 1px 4px 1px #888;
+  transition: 0.3s;
+  /* border-radius: 5px 5px 5px 5px; */
+  /* background-color: white; */
+  overflow: hidden;
 }
 
 .virtual-box:hover {
