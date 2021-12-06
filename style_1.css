@@ -113,6 +113,22 @@ body{
    border-radius: 15px 15px 15px 15px;
    width: 300px;
 }
+
 .virtual-box:hover {
    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
  }
+
+
+
+.top-virtual-backgrounds{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  background-color: #C6D2D1;
+  grid-gap: 1em;
+}
+
+
+
+
+
