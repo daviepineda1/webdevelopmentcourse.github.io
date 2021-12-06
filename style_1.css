@@ -111,7 +111,7 @@ body{
 .virtual-box{
    background-color: #c32424;
    border-radius: 15px 15px 15px 15px;
-   width: 300px;
+   width: 400px;
 }
 
 .virtual-box:hover {
