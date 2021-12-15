@@ -92,18 +92,28 @@ body{
 
 
 .ceo-title{
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .social-icon{
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .text-info{
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .company-title{
+  grid-column: 2;
+  grid-row: 2;
 }
 
 .text-website{
+  grid-column: 2;
+  grid-row: 2;
 }
 
 
