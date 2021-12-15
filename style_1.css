@@ -82,16 +82,16 @@ body{
 }
 
 .virtual-box{
-   background-color: #c32424;
-   border-radius: 15px 15px 15px 15px;
-   width: 300px;
+   /* background-color: #c32424; */
+  border-radius: 15px 15px 15px 15px;
+  width: 289px;
   box-shadow: 1px 1px 4px 1px #888;
   transition: 0.3s;
-/* border-radius: 5px 5px 5px 5px; */
-/* background-color: white; */
+  /* border-radius: 5px 5px 5px 5px; */
+  /* background-color: white; */
   overflow: hidden;
-  font-family: "Arimo", serif;
-  height:250px;
+  font-family: "Arimo", serif;  
+  height:165px;
 }
 .virtual-box:hover {
    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
