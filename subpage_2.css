@@ -68,7 +68,7 @@ body{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr;
-  background-color: #C6D2D1;
+  background-color: #c32424;
   grid-gap: 4em;
 
 }
@@ -87,7 +87,7 @@ body{
 }
 
 .feedback{
-  width: 200px;
+  width: 222px;
 }
 
 
