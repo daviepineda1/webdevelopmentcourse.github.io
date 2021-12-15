@@ -84,6 +84,7 @@ body{
 
 .form-submit{
   width: 222px;
+  height: 400px;
   background-color: #c32424;
   border-radius: 15px 15px 15px 15px;
   grid-column: 1;
