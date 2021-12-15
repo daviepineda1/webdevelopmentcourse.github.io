@@ -97,6 +97,10 @@ body{
 .ceo-title{
   grid-column: 4;
   grid-row: 1;
+  background-color: white;
+  text-align: center;
+  height: 50px;
+  width: 200px;
 }
 
 .social-icon{
@@ -107,6 +111,13 @@ body{
 .text-info{
   grid-column: 4;
   grid-row: 2;
+}
+
+.contact-us{
+  background-color: white;
+  text-align: center;
+  height: 50px;
+  width: 200px;
 }
 
 
