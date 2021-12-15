@@ -77,6 +77,10 @@ body{
   grid-gap: 1em;
 }
 
+.form-submit{
+  width: 222px;
+}
+
 
 
 
