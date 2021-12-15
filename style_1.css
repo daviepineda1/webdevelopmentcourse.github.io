@@ -151,7 +151,17 @@ body{
   width: 400px;
 }
 
+.paragraph-form-1{
+  grid-column: 3;
+  grid-row: 1;
+  font-family: "Arimo", serif;
+}
 
+.paragraph-form-2{
+  grid-column: 3;
+  grid-row: 2;
+  font-family: "Arimo", serif;
+}
 
 
 
