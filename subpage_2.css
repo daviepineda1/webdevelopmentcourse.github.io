@@ -80,6 +80,7 @@ body{
 .form-submit{
   width: 222px;
   background-color: #c32424;
+  border-radius: 15px 15px 15px 15px;
   
 }
 
