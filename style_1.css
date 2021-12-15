@@ -151,7 +151,10 @@ body{
   grid-row: 2;
   font-family: "Arimo", serif;
 }
-
+.btn-success{
+    height: 10px;
+    width: 299px;
+}
 .btn-success-1{
     height: 10px;
     width: 299px;
