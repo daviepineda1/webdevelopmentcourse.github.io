@@ -15,7 +15,6 @@ header {
 }
 p {
   text-align:center;
-   font-family: "Arimo", serif;
 }
 
 h1 {
@@ -118,6 +117,7 @@ body{
   /* border-radius: 5px 5px 5px 5px; */
   /* background-color: white; */
   overflow: hidden;
+  font-family: "Arimo", serif;
 }
 
 .virtual-box:hover {
