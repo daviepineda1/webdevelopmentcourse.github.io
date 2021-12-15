@@ -72,6 +72,15 @@ body{
   grid-gap: 4em;
 
 }
+.main-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  background-color: #C6D2D1;
+  grid-gap: 1em;
+}
+
+
 .home-headline{
   text-align:center;
   
