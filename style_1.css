@@ -13,9 +13,12 @@ header {
   font-family: "Arimo", serif;
   font-size: 32px;
 }
-p {
-  text-align:center;
+
+
+p{
   font-family: "Arimo", serif;
+  font-size: 15px;
+
 }
 
 h1 {
